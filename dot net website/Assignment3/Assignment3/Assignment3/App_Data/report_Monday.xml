@@ -1,0 +1,4 @@
+<fitnessclasses>
+<class> <id>3</id> <description>Aerobics</description> <location>New Gym</location> <spaces>44</spaces> <day>Monday</day> <time>09:30</time> <duration>60</duration> <multiweek>No</multiweek> <startdate>12/05/2015</startdate> <nos>N/A</nos> </class>
+<class> <id>23</id> <description>Running</description> <location>City Gym</location> <spaces>30</spaces> <day>Monday</day> <time>09:30</time> <duration>60</duration> <multiweek>Yes</multiweek> <startdate>10/06/2017</startdate> <nos>20</nos> </class>
+</fitnessclasses>

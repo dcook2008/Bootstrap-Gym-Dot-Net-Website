@@ -1,0 +1,121 @@
+<fitnessclasses>
+
+  <class>
+    <id>15</id>
+    <description>Boxing</description>
+    <location>Plaza Gym</location>
+    <spaces>18</spaces>
+    <day>Tuesday</day>
+    <time>10:30</time>
+    <duration>60</duration>
+    <multiweek>Yes</multiweek>
+    <startdate>08/11/2015</startdate>
+    <nos>15</nos>
+  </class>
+
+  <class>
+    <id>22</id>
+    <description>Tennis</description>
+    <location>Aquatic Gym</location>
+    <spaces>22</spaces>
+    <day>Thursday</day>
+    <time>15:30</time>
+    <duration>60</duration>
+    <multiweek>Yes</multiweek>
+    <startdate>09/09/2015</startdate>
+    <nos>8</nos>
+  </class>
+
+  <class>
+    <id>1</id>
+    <description>Swimming</description>
+    <location>Plaza Gym</location>
+    <spaces>22</spaces>
+    <day>Thursday</day>
+    <time>13:00</time>
+    <duration>90</duration>
+    <multiweek>No</multiweek>
+    <startdate>24/04/2015</startdate>
+    <nos>N/A</nos>
+  </class>
+
+  <class>
+    <id>12</id>
+    <description>Spinning</description>
+    <location>Plaza Gym</location>
+    <spaces>20</spaces>
+    <day>Wednesday</day>
+    <time>13:30</time>
+    <duration>120</duration>
+    <multiweek>Yes</multiweek>
+    <startdate>13/08/2015</startdate>
+    <nos>6</nos>
+  </class>
+
+  <class>
+    <id>2</id>
+    <description>Diving</description>
+    <location>Aquatic Gym</location>
+    <spaces>12</spaces>
+    <day>Friday</day>
+    <time>06:30</time>
+    <duration>45</duration>
+    <multiweek>No</multiweek>
+    <startdate>29/04/2015</startdate>
+    <nos>N/A</nos>
+  </class>
+
+  <class>
+    <id>7</id>
+    <description>Yoga</description>
+    <location>Quadrant Gym</location>
+    <spaces>35</spaces>
+    <day>Saturday</day>
+    <time>09:00</time>
+    <duration>60</duration>
+    <multiweek>No</multiweek>
+    <startdate>20/05/2015</startdate>
+    <nos>N/A</nos>
+  </class>
+
+  <class>
+    <id>4</id>
+    <description>Aerobics</description>
+    <location>City Gym</location>
+    <spaces>44</spaces>
+    <day>Tuesday</day>
+    <time>09:30</time>
+    <duration>60</duration>
+    <multiweek>No</multiweek>
+    <startdate>12/05/2015</startdate>
+    <nos>N/A</nos>
+  </class>
+
+  <class>
+    <id>3</id>
+    <description>Aerobics</description>
+    <location>New Gym</location>
+    <spaces>44</spaces>
+    <day>Monday</day>
+    <time>09:30</time>
+    <duration>60</duration>
+    <multiweek>No</multiweek>
+    <startdate>12/05/2015</startdate>
+    <nos>N/A</nos>
+  </class>
+
+  <class>
+    <id>13</id>
+    <description>Spinning</description>
+    <location>New Gym</location>
+    <spaces>15</spaces>
+    <day>Sunday</day>
+    <time>15:30</time>
+    <duration>120</duration>
+    <multiweek>Yes</multiweek>
+    <startdate>20/05/2015</startdate>
+    <nos>12</nos>
+  </class>
+
+</fitnessclasses>
+

@@ -1,0 +1,5 @@
+<fitnessclasses>
+<class> <id>1</id> <description>Swimming</description> <location>Plaza Gym</location> <spaces>22</spaces> <day>Thursday</day> <time>13:00</time> <duration>90</duration> <multiweek>No</multiweek> <startdate>24/04/2015</startdate> <nos>N/A</nos> </class>
+<class> <id>12</id> <description>Spinning</description> <location>Plaza Gym</location> <spaces>20</spaces> <day>Wednesday</day> <time>13:30</time> <duration>120</duration> <multiweek>Yes</multiweek> <startdate>13/08/2015</startdate> <nos>6</nos> </class>
+<class> <id>15</id> <description>Boxing</description> <location>Plaza Gym</location> <spaces>18</spaces> <day>Tuesday</day> <time>10:30</time> <duration>60</duration> <multiweek>Yes</multiweek> <startdate>08/11/2015</startdate> <nos>15</nos> </class>
+</fitnessclasses>

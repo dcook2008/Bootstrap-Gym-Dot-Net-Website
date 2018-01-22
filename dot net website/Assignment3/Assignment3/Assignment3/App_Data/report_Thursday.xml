@@ -1,0 +1,4 @@
+<fitnessclasses>
+<class> <id>1</id> <description>Swimming</description> <location>Plaza Gym</location> <spaces>22</spaces> <day>Thursday</day> <time>13:00</time> <duration>90</duration> <multiweek>No</multiweek> <startdate>24/04/2015</startdate> <nos>N/A</nos> </class>
+<class> <id>22</id> <description>Tennis</description> <location>Aquatic Gym</location> <spaces>22</spaces> <day>Thursday</day> <time>15:30</time> <duration>60</duration> <multiweek>Yes</multiweek> <startdate>09/09/2015</startdate> <nos>8</nos> </class>
+</fitnessclasses>

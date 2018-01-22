@@ -1,0 +1,5 @@
+<fitnessclasses>
+<class> <id>1;</id> <description>Spinning;</description> <location>City Gym;</location> <spaces>8;</spaces> <day>Monday;</day> <time>12:20;</time> <duration>55;</duration> <multiweek>No;</multiweek> <startdate>10/04/2015;</startdate> <nos>N/A;</nos> </class>
+<class> <id>2;</id> <description>Spinning;</description> <location>City Gym;</location> <spaces>8;</spaces> <day>Monday;</day> <time>12:20;</time> <duration>55;</duration> <multiweek>No;</multiweek> <startdate>10/04/2015;</startdate> <nos>N/A;</nos> </class>
+<class> <id>3;</id> <description>Aerobic;</description> <location>New Gym;</location> <spaces>44;</spaces> <day>Monday;</day> <time>09:30;</time> <duration>60;</duration> <multiweek>No;</multiweek> <startdate>12/05/2015;</startdate> <nos>N/A;</nos> </class>
+</fitnessclasses>

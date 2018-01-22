@@ -1,0 +1,4 @@
+<fitnessclasses>
+<class> <id>2</id> <description>Diving</description> <location>Aquatic Gym</location> <spaces>12</spaces> <day>Friday</day> <time>06:30</time> <duration>45</duration> <multiweek>No</multiweek> <startdate>29/04/2015</startdate> <nos>N/A</nos> </class>
+<class> <id>22</id> <description>Tennis</description> <location>Aquatic Gym</location> <spaces>22</spaces> <day>Thursday</day> <time>15:30</time> <duration>60</duration> <multiweek>Yes</multiweek> <startdate>09/09/2015</startdate> <nos>8</nos> </class>
+</fitnessclasses>
